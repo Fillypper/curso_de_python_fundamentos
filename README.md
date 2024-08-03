@@ -4,7 +4,7 @@ Repositório para estudo no bootcamp da DIO "Vivo - Python AI Backed Developer"
 
 # 📶 Progresso
 
-- [Perfil DIO](web.dio.me/users/bluizfillypper)
+- [Perfil DIO](https://web.dio.me/users/bluizfillypper)
 
 # 📚️ Seções concluídas
 

@@ -28,3 +28,5 @@ conta_especial_com_saldo_suficiente = conta_especial and saldo >= saque
 exp3 = conta_normal_com_saldo_suficiente or conta_especial_com_saldo_suficiente
 
 print(exp3)
+
+print(exp or exp2)

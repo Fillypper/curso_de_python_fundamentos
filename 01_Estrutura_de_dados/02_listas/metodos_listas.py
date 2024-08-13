@@ -8,4 +8,3 @@
 
 # print(lista)
 
-#A

@@ -5,8 +5,4 @@ contatos = {
     "milaine@gmail.com": {"nome": "Milaine","telefone": "3333-7766"}
 }
 
-del contatos["guilherme@gmail.com"]["telefone"]
-
-del contatos["chappie@gmail.com"]
-
-print(contatos)
+print(contatos.values())
